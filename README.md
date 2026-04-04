@@ -134,8 +134,7 @@ My approach:
 ### Installation
 ```bash
 # Clone this repository
-git clone https://github.com/YOUR_USERNAME/workshop-booking-ui.git
-
+git clone https://github.com/Explorer1905/workshop-booking-ui.git
 # Navigate into the project
 cd workshop-booking-ui
 
